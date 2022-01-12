@@ -78,7 +78,3 @@
 <a href=https://linkedin.com/in/sachuverma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="sachuverma" height="40" width="40" /></a>
 <a href=https://instagram.com/sachuverma_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="sachuverma_" height="40" width="40" /></a>
 </p>
-
-⭐️ From [Sachin Verma](https://github.com/sachinverma53121) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```El Psy Kongroo```
-
-
