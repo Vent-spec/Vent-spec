@@ -20,8 +20,7 @@
 - 🔭 I’m currently working on **vKarma Webapp**
 - 🌱 I’m currently learning ... **Django and React.js**
 - 💬 Ask me about ... **Web Develpoment**
-- 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **Anime**❤
+- ⚡ Fun fact ... **Music**❤
 - 📫 How to reach me **service@2binarys.com**
 <h4>Programming Languages: </h4>
 <p align="left">
